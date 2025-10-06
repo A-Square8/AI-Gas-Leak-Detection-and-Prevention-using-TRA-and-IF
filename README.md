@@ -1,19 +1,7 @@
-# Gas Sensor Data Analysis
+#Real Time Gas Sensor Data Analysis Using TRA and IF
 
 This project focuses on analyzing gas sensor data using various machine learning algorithms. The goal is to preprocess the data, train models, and evaluate their performance for gas classification and anomaly detection.
 
-## Table of Contents
-
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Requirements](#requirements)
-- [Preprocessing](#preprocessing)
-- [Machine Learning Algorithms Used](#machine-learning-algorithms-used)
-- [Training](#training)
-- [Evaluation & Testing](#evaluation--testing)
-- [Usage](#usage)
-- [Results](#results)
-- [References](#references)
 
 ---
 
