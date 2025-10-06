@@ -68,6 +68,7 @@ pip install -r requirements.txt
 
 - Model evaluation and testing are performed using [`test.py`](test.py).
 - Results are compared using metrics such as accuracy, precision, recall, and F1-score.
+- Result : Overall - Acc: 0.9633, Prec: 0.9083, F1: 0.9083
 
 ## Usage
 
